@@ -1,25 +1,23 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "main.css": "/main.css",
+  "main.js": "/main.js",
+  "131.js": "/131.js",
+  "assets/img/background.png": "/assets/img/8b00a18ebfabfb1e953a.png",
+  "assets/img/logo.png": "/assets/img/b3d8d17e9916f46d6bc9.png",
+  "assets/img/pizza.webp": "/assets/img/fd5c977ae74b39c8371d.webp",
+  "assets/img/reviews.jpeg": "/assets/img/c433138b1b50ba3fd141.jpeg",
+  "favicon.ico": "/favicon.ico",
+  "assets/img/top-food.svg": "/assets/img/d0c6687b41fd7bbd022e.svg",
+  "assets/img/delivery-man.svg": "/assets/img/ec91c18e64d1cc04baad.svg",
+  "assets/img/zip-code-background.png": "/assets/img/84b5cb223f80be0c6a80.png",
+  "assets/img/dish2.webp": "/assets/img/9643c1a9b131d70136a7.webp",
+  "assets/img/dish5.webp": "/assets/img/cf729eb5a514594d5e93.webp",
+  "assets/img/dish3.webp": "/assets/img/a9a5536ad1ff07749fdd.webp",
+  "assets/img/dish4.webp": "/assets/img/11342526657d4df1fc05.webp",
+  "assets/img/dish6.webp": "/assets/img/45f99e08703710e4eca8.webp",
+  "assets/img/dish1.webp": "/assets/img/f4abe2fd91555e067f2a.webp",
+  "index.html": "/index.html",
+  "main.css.map": "/main.css.map",
+  "main.js.map": "/main.js.map",
+  "131.js.map": "/131.js.map"
 }
